@@ -1,6 +1,6 @@
-- Hi, I’m Fredrik, a.k.a @Lunkers!
-- I'm currently working at SVT in stockholm, sweden.
-- My main interest is video processing and transcodin.
+- Hi! I’m Fredrik, a.k.a @Lunkers!
+- I'm currently working as a developer at SVT in Stockholm, where i work with VOD transcoding and publishing.
+- My main interests are within the video technology field, primarily transcoding, quality measurements, and processing.
 - You can reach me at fredrik.lundkvist@svt.se
 <!---
 Lunkers/Lunkers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
